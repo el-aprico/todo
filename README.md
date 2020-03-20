@@ -1,4 +1,4 @@
-# PHP TODO App
+# PHP TODO Apps
 
 ## How to Deploy
 __1. Install Git__
