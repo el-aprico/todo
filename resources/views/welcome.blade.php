@@ -91,9 +91,7 @@
                 <hr/>
                 <div style="text-align:left">
                     <pre>
-                    Author: Elka aprico
-                    phone: +62 87873712777
-                    linkedin: <a href="https://www.linkedin.com/in/aprico/">aprico</a>
+                    Author: Aprico
                     </pre>
                 </div>
             </div>
